@@ -1,6 +1,6 @@
 
 # JAZZ INCIDENT HANDLER
-<img src="https://github.com/emrekybs/MrHandler/blob/main/MrHandler.png">
+<img src="https://github.com/Yassinjass/Cyber-Brigade/blob/main/CYBER%20BRIGADE%20(1).png">
 JAZZ INCIDENT HANDLER is a specialized tool designed for responding to security incidents on Linux systems.
 It connects to target systems via SSH to execute a range of diagnostic commands, gathering crucial information such as network configurations, system logs, user accounts, and running processes.
 At the end of its operation, the tool compiles all the gathered data into a comprehensive HTML report. 
